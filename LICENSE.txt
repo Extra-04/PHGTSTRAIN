@@ -1,0 +1,29 @@
+GTS 낚시 (GtsFishing) — 사용 조건
+
+이 저장소는 GtsFishing.exe 실행 파일과 문서만 배포합니다. 소스 코드는 공개하지
+않습니다.
+
+허용:
+  - 개인적·비상업적으로 자유롭게 내려받아 사용, 재배포할 수 있습니다.
+  - 실행 파일을 그대로 다시 올리거나 다른 사람에게 전달해도 됩니다.
+
+금지:
+  - 판매, 유료 배포, 대가를 받는 대여.
+  - 이 프로그램이 자신의 창작물인 것처럼 표시하는 것.
+  - 리버스 엔지니어링, 역어셈블, 디컴파일 시도.
+
+보증 없음:
+  이 프로그램은 있는 그대로 제공되며 어떠한 보증도 하지 않습니다. 사용으로
+  인한 계정 정지, 데이터 손실 등 모든 결과는 사용자 본인의 책임입니다.
+
+포함된 서드파티 구성 요소:
+  - adb.exe, AdbWinApi.dll, AdbWinUsbApi.dll
+    Android SDK Platform-Tools, Google LLC, Apache License 2.0.
+    https://developer.android.com/studio/releases/platform-tools
+  - ADBKeyboard.apk
+    senzhk/ADBKeyBoard (한글 등 유니코드 입력용 IME).
+    https://github.com/senzhk/ADBKeyBoard
+
+Pokémon HOME은 Nintendo / Creatures Inc. / GAME FREAK inc. /
+The Pokémon Company의 상표 및 저작물이며, 이 프로젝트는 이들과 무관한
+비공식 개인 도구입니다.
